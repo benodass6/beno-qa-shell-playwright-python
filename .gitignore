@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+
+# Reports & generated files
+allure-report/
+reports/
+test-results/
+Allure_Final_Report.pdf
+
+# Node
+node_modules/
+package-lock.json
+
+# IDE
+.vscode/
+.idea/

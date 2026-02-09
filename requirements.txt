@@ -1,0 +1,8 @@
+# Requirements for Cl_Automation project
+playwright
+pytest
+allure-pytest
+pytest-playwright
+Pillow
+reportlab
+
